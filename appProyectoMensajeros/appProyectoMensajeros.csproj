@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{02524B68-49C2-47A7-AC47-4AC154E4C461}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UTN.Winform.Mensajeros</RootNamespace>
+    <AssemblyName>appProyectoMensajeros</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QrCode.Net.0.4.0.0\lib\net45\Gma.QrCodeNet.Encoding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.Core, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Presentation.1.7.5\lib\net40\GMap.NET.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.WindowsForms.1.7.5\lib\net40\GMap.NET.WindowsForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsPresentation, Version=1.7.5.0, Culture=neutral, PublicKeyToken=b85b9027b614afef, processorArchitecture=MSIL">
+      <HintPath>..\packages\GMap.NET.Presentation.1.7.5\lib\net40\GMap.NET.WindowsPresentation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Enumeraciones\EstadoMantenimiento.cs" />
+    <Compile Include="Layers\BLL\BLLCliente.cs" />
+    <Compile Include="Layers\BLL\BLLFactura.cs" />
+    <Compile Include="Layers\BLL\BLLImpuesto.cs" />
+    <Compile Include="Layers\BLL\BLLLogin.cs" />
+    <Compile Include="Layers\BLL\BLLMensajeros.cs" />
+    <Compile Include="Layers\BLL\BLLPrecioEnvios.cs" />
+    <Compile Include="Layers\BLL\BLLProvincia.cs" />
+    <Compile Include="Layers\BLL\BLLTarjeta.cs" />
+    <Compile Include="Layers\DAL\DALCliente.cs" />
+    <Compile Include="Layers\DAL\DALFactura.cs" />
+    <Compile Include="Layers\DAL\DALImpuesto.cs" />
+    <Compile Include="Layers\DAL\DALLogin.cs" />
+    <Compile Include="Layers\DAL\DALMensajeros.cs" />
+    <Compile Include="Layers\DAL\DALPrecioEnvios.cs" />
+    <Compile Include="Layers\DAL\DALProvincia.cs" />
+    <Compile Include="Layers\DAL\DALTarjeta.cs" />
+    <Compile Include="Layers\Entities\Cliente.cs" />
+    <Compile Include="Layers\Entities\DetalleFactura.cs" />
+    <Compile Include="Layers\Entities\Direccion.cs" />
+    <Compile Include="Layers\Entities\EncabezadoFactura.cs" />
+    <Compile Include="Layers\Entities\Impuesto.cs" />
+    <Compile Include="Layers\Entities\Mensajero.cs" />
+    <Compile Include="Layers\Entities\PrecioEnvios.cs" />
+    <Compile Include="Layers\Entities\Provincia.cs" />
+    <Compile Include="Layers\Entities\Tarjeta.cs" />
+    <Compile Include="Layers\Entities\Usuario.cs" />
+    <Compile Include="Layers\Interfaces\IBLLCliente.cs" />
+    <Compile Include="Layers\Interfaces\IBLLFactura.cs" />
+    <Compile Include="Layers\Interfaces\IBLLImpuesto.cs" />
+    <Compile Include="Layers\Interfaces\IBLLLogin.cs" />
+    <Compile Include="Layers\Interfaces\IBLLMensajeros.cs" />
+    <Compile Include="Layers\Interfaces\IBLLPrecioEnvios.cs" />
+    <Compile Include="Layers\Interfaces\IBLLProvincia.cs" />
+    <Compile Include="Layers\Interfaces\IBLLTarjeta.cs" />
+    <Compile Include="Layers\Interfaces\IDALCliente.cs" />
+    <Compile Include="Layers\Interfaces\IDALFactura.cs" />
+    <Compile Include="Layers\Interfaces\IDALImpuesto.cs" />
+    <Compile Include="Layers\Interfaces\IDALLogin.cs" />
+    <Compile Include="Layers\Interfaces\IDALMensajeros.cs" />
+    <Compile Include="Layers\Interfaces\IDALPrecioEnvios.cs" />
+    <Compile Include="Layers\Interfaces\IDALProvincia.cs" />
+    <Compile Include="Layers\Interfaces\IDALTarjeta.cs" />
+    <Compile Include="Layers\Persistencia\DataBase.cs" />
+    <Compile Include="Layers\Persistencia\FactoryConexion.cs" />
+    <Compile Include="Layers\Persistencia\FactoryDataBase.cs" />
+    <Compile Include="Layers\Persistencia\IDataBase.cs" />
+    <Compile Include="Layers\UI\Filtros\frmFiltroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroCliente.Designer.cs">
+      <DependentUpon>frmFiltroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroMensajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Filtros\frmFiltroMensajero.Designer.cs">
+      <DependentUpon>frmFiltroMensajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoCliente.Designer.cs">
+      <DependentUpon>frmMantenimientoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoMensajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoMensajero.Designer.cs">
+      <DependentUpon>frmMantenimientoMensajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoPrecioEnvios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Mantenimientos\frmMantenimientoPrecioEnvios.Designer.cs">
+      <DependentUpon>frmMantenimientoPrecioEnvios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmFacturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Procesos\frmFacturacion.Designer.cs">
+      <DependentUpon>frmFacturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\DsReporteFactura.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsReporteFactura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteFactura.Designer.cs">
+      <DependentUpon>frmReporteFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteGraficoXComprasCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteGraficoXComprasCliente.Designer.cs">
+      <DependentUpon>frmReporteGraficoXComprasCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteXRangoFecha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layers\UI\Reportes\frmReporteXRangoFecha.Designer.cs">
+      <DependentUpon>frmReporteXRangoFecha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Util\QuickResponse.cs" />
+    <Compile Include="Util\Utilitarios.cs" />
+    <EmbeddedResource Include="Layers\UI\Filtros\frmFiltroCliente.resx">
+      <DependentUpon>frmFiltroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Filtros\frmFiltroMensajero.resx">
+      <DependentUpon>frmFiltroMensajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Mantenimientos\frmMantenimientoCliente.resx">
+      <DependentUpon>frmMantenimientoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Mantenimientos\frmMantenimientoMensajero.resx">
+      <DependentUpon>frmMantenimientoMensajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Mantenimientos\frmMantenimientoPrecioEnvios.resx">
+      <DependentUpon>frmMantenimientoPrecioEnvios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Procesos\frmFacturacion.resx">
+      <DependentUpon>frmFacturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmReporteFactura.resx">
+      <DependentUpon>frmReporteFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmReporteGraficoXComprasCliente.resx">
+      <DependentUpon>frmReporteGraficoXComprasCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layers\UI\Reportes\frmReporteXRangoFecha.resx">
+      <DependentUpon>frmReporteXRangoFecha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Layers\UI\Reportes\DsReporteFactura.xsc">
+      <DependentUpon>DsReporteFactura.xsd</DependentUpon>
+    </None>
+    <None Include="Layers\UI\Reportes\DsReporteFactura.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsReporteFactura.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Layers\UI\Reportes\DsReporteFactura.xss">
+      <DependentUpon>DsReporteFactura.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Documents\" />
+    <Folder Include="Factories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog-cancel-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog-accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window-close-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondologin2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\motoverde1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoArchivo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoArchivo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoMantenimiento.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoProcesos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoReportes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\run-build-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoReportes1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoArchivo11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoAdministracion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emblem-question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copia de MOTOTRANS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoprincipal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondopr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo envios.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconocerrarsesion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconocliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconomensajero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoBillete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconofac.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-chart-pie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconocalendario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconocompras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-new-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoNuevo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoEditar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoBorrar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window-close-21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dialog-cancel-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\camera-web-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoLupa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-in-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-out-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoEscoba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga11111.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconLupaFiltro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdfforge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoEnviaremail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sendemail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoEnviaremail1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

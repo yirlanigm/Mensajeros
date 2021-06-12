@@ -1,0 +1,267 @@
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+F:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+D:\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+C:\Users\Gabriel\Desktop\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+D:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+F:\Proyecto. Yirlani González Martínez_402260778\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+C:\Users\Yirlani\Desktop\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.Core.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsForms.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroCliente.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroMensajero.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.Core.dll
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroCliente.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroMensajero.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+D:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.Core.dll
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojResolveAssemblyReference.cache
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroCliente.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroMensajero.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+E:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.Cache
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\MessagingToolkit.QRCode.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.xml
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.FrmReporteFactura.resources
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\RdlCompile.cache
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\RdlCompile.compiled
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.Core.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsForms.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\MessagingToolkit.QRCode.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.xml
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojAssemblyReference.cache
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroCliente.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroMensajero.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteFactura.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.cache
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.CoreCompileInputs.cache
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.CopyComplete
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+D:\todoo\progra3\Proyecto para gabri (2)\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe.config
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.exe
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\appProyectoMensajeros.pdb
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.Core.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\log4net.xml
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csprojAssemblyReference.cache
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroCliente.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Filtros.frmFiltroMensajero.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmAcercaDe.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmLogin.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.Layers.UI.frmPrincipal.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoCliente.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoMensajero.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Mantenimientos.frmMantenimientoPrecioEnvios.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Procesos.frmFacturacion.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteFactura.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteGraficoXComprasCliente.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Layers.UI.Reportes.frmReporteXRangoFecha.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\UTN.Winform.Mensajeros.Properties.Resources.resources
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.GenerateResource.cache
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.CoreCompileInputs.cache
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.csproj.CopyComplete
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.exe
+C:\Users\yirgm\OneDrive\Escritorio\Proyecto ultima version\Proyecto (2)\Proyecto. Yirlani González Martínez_402260778\appProyectoMensajeros\appProyectoMensajeros\obj\Debug\appProyectoMensajeros.pdb
